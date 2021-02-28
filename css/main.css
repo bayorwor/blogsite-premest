@@ -158,7 +158,7 @@
 #contact .contact-inner .col-2 .col-left form {
   display: grid;
   grid-template-areas: "email name" "message message";
-  grid-gap: inherit;
+  grid-gap: 1rem;
 }
 #contact .contact-inner .col-2 .col-left form .contact-email {
   grid-area: email;
