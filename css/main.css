@@ -163,3 +163,15 @@
 #contact .contact-inner .col-2 .col-left form .contact-email {
   grid-area: email;
 }
+
+/* styles  riles for the footer */
+footer {
+  height: auto;
+  background: #effaff;
+}
+
+footer .footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
